@@ -8,6 +8,7 @@ Hi, Im Nguyen Thien Tue
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thntue/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thntue/LeetCodePractice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thntue/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -55,4 +56,8 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
