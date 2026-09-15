@@ -23,6 +23,7 @@ Hi, Im Nguyen Thien Tue
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thntue/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/thntue/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,17 +71,20 @@ Hi, Im Nguyen Thien Tue
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thntue/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/thntue/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Geometry
 |  |
 | ------- |
