@@ -14,6 +14,7 @@ Hi, Im Nguyen Thien Tue
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Two Pointers
 |  |
@@ -29,6 +30,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
 |  |
@@ -71,6 +73,7 @@ Hi, Im Nguyen Thien Tue
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
 |  |
@@ -101,4 +104,12 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thntue/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
