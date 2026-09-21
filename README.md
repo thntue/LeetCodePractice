@@ -8,6 +8,7 @@ Hi, Im Nguyen Thien Tue
 | [0014-longest-common-prefix](https://github.com/thntue/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thntue/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thntue/LeetCodePractice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/thntue/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/thntue/LeetCodePractice/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thntue/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -115,6 +116,7 @@ Hi, Im Nguyen Thien Tue
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/thntue/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sliding Window
 |  |
