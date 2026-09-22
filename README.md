@@ -34,6 +34,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -60,6 +61,7 @@ Hi, Im Nguyen Thien Tue
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -144,4 +146,12 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/thntue/LeetCodePractice/tree/master/3525-find-x-value-of-array-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 <!---LeetCode Topics End-->
