@@ -14,6 +14,7 @@ Hi, Im Nguyen Thien Tue
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thntue/LeetCodePractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -34,6 +35,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -154,4 +156,8 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
