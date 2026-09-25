@@ -39,6 +39,7 @@ Hi, Im Nguyen Thien Tue
 | [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -50,6 +51,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
+| [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -104,6 +107,7 @@ Hi, Im Nguyen Thien Tue
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/thntue/LeetCodePractice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/thntue/LeetCodePractice/tree/master/0125-valid-palindrome) |
+| [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Geometry
 |  |
@@ -168,4 +172,12 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
