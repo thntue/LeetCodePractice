@@ -6,6 +6,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thntue/LeetCodePractice/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thntue/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thntue/LeetCodePractice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/thntue/LeetCodePractice/tree/master/0035-search-insert-position) |
@@ -29,6 +30,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thntue/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thntue/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/thntue/LeetCodePractice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -55,6 +57,7 @@ Hi, Im Nguyen Thien Tue
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 ## Counting
