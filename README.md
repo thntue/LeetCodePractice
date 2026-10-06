@@ -89,6 +89,7 @@ Hi, Im Nguyen Thien Tue
 | [0009-palindrome-number](https://github.com/thntue/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thntue/LeetCodePractice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/thntue/LeetCodePractice/tree/master/0836-rectangle-overlap) |
 | [3524-find-x-value-of-array-i](https://github.com/thntue/LeetCodePractice/tree/master/3524-find-x-value-of-array-i) |
@@ -157,6 +158,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/thntue/LeetCodePractice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
@@ -234,4 +236,8 @@ Hi, Im Nguyen Thien Tue
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thntue/LeetCodePractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
