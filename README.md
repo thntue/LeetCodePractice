@@ -113,6 +113,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thntue/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/thntue/LeetCodePractice/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
@@ -140,6 +141,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/thntue/LeetCodePractice/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/thntue/LeetCodePractice/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/thntue/LeetCodePractice/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/thntue/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0020-valid-parentheses) |
@@ -172,6 +174,7 @@ Hi, Im Nguyen Thien Tue
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/thntue/LeetCodePractice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thntue/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 ## Binary Search
 |  |
