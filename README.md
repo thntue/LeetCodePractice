@@ -19,6 +19,7 @@ Hi, Im Nguyen Thien Tue
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thntue/LeetCodePractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -61,6 +62,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +104,7 @@ Hi, Im Nguyen Thien Tue
 | [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/thntue/LeetCodePractice/tree/master/0836-rectangle-overlap) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3524-find-x-value-of-array-i](https://github.com/thntue/LeetCodePractice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/thntue/LeetCodePractice/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thntue/LeetCodePractice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -117,6 +120,7 @@ Hi, Im Nguyen Thien Tue
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thntue/LeetCodePractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/thntue/LeetCodePractice/tree/master/3524-find-x-value-of-array-i) |
@@ -214,6 +218,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -264,4 +269,28 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/thntue/LeetCodePractice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
