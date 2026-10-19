@@ -22,6 +22,7 @@ Hi, Im Nguyen Thien Tue
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thntue/LeetCodePractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thntue/LeetCodePractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -69,6 +70,7 @@ Hi, Im Nguyen Thien Tue
 | [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thntue/LeetCodePractice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Counting
@@ -183,6 +185,7 @@ Hi, Im Nguyen Thien Tue
 | [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
