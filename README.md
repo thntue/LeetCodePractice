@@ -5,6 +5,7 @@ Hi, Im Nguyen Thien Tue
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thntue/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thntue/LeetCodePractice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thntue/LeetCodePractice/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -62,6 +63,7 @@ Hi, Im Nguyen Thien Tue
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thntue/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sorting
@@ -181,6 +183,7 @@ Hi, Im Nguyen Thien Tue
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thntue/LeetCodePractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/thntue/LeetCodePractice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
