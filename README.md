@@ -330,6 +330,7 @@ Hi, Im Nguyen Thien Tue
 | [1633-percentage-of-users-attended-a-contest](https://github.com/thntue/LeetCodePractice/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/thntue/LeetCodePractice/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/thntue/LeetCodePractice/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/thntue/LeetCodePractice/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/thntue/LeetCodePractice/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/thntue/LeetCodePractice/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/thntue/LeetCodePractice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
