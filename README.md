@@ -303,4 +303,8 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/thntue/LeetCodePractice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
