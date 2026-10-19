@@ -338,6 +338,7 @@ Hi, Im Nguyen Thien Tue
 | [1321-restaurant-growth](https://github.com/thntue/LeetCodePractice/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/thntue/LeetCodePractice/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/thntue/LeetCodePractice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1484-group-sold-products-by-the-date](https://github.com/thntue/LeetCodePractice/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/thntue/LeetCodePractice/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/thntue/LeetCodePractice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/thntue/LeetCodePractice/tree/master/1633-percentage-of-users-attended-a-contest) |
