@@ -19,6 +19,7 @@ Hi, Im Nguyen Thien Tue
 | [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thntue/LeetCodePractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -140,6 +141,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thntue/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
