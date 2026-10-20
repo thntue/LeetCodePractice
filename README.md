@@ -51,6 +51,7 @@ Hi, Im Nguyen Thien Tue
 | [0151-reverse-words-in-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/thntue/LeetCodePractice/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/thntue/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Hash Table
@@ -169,6 +170,7 @@ Hi, Im Nguyen Thien Tue
 | [0125-valid-palindrome](https://github.com/thntue/LeetCodePractice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/thntue/LeetCodePractice/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thntue/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
