@@ -23,6 +23,7 @@ Hi, Im Nguyen Thien Tue
 | [0334-increasing-triplet-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/thntue/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
+| [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thntue/LeetCodePractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/thntue/LeetCodePractice/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -64,6 +65,7 @@ Hi, Im Nguyen Thien Tue
 | [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -83,6 +85,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -99,6 +102,7 @@ Hi, Im Nguyen Thien Tue
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thntue/LeetCodePractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
