@@ -182,6 +182,7 @@ Hi, Im Nguyen Thien Tue
 | [1768-merge-strings-alternately](https://github.com/thntue/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thntue/LeetCodePractice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/thntue/LeetCodePractice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Geometry
 |  |
 | ------- |
