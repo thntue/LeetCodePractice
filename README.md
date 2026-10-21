@@ -17,6 +17,7 @@ Hi, Im Nguyen Thien Tue
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/thntue/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
@@ -129,6 +130,7 @@ Hi, Im Nguyen Thien Tue
 | [0013-roman-to-integer](https://github.com/thntue/LeetCodePractice/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/thntue/LeetCodePractice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/thntue/LeetCodePractice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thntue/LeetCodePractice/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -277,6 +279,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0020-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thntue/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
