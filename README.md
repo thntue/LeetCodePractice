@@ -24,6 +24,7 @@ Hi, Im Nguyen Thien Tue
 | [0485-max-consecutive-ones](https://github.com/thntue/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thntue/LeetCodePractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/thntue/LeetCodePractice/tree/master/1470-shuffle-the-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -67,6 +68,7 @@ Hi, Im Nguyen Thien Tue
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -87,6 +89,7 @@ Hi, Im Nguyen Thien Tue
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thntue/LeetCodePractice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -402,4 +405,8 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/thntue/LeetCodePractice/tree/master/1929-concatenation-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
