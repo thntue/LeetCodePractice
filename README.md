@@ -25,6 +25,7 @@ Hi, Im Nguyen Thien Tue
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thntue/LeetCodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/thntue/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
+| [0636-exclusive-time-of-functions](https://github.com/thntue/LeetCodePractice/tree/master/0636-exclusive-time-of-functions) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thntue/LeetCodePractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -280,6 +281,7 @@ Hi, Im Nguyen Thien Tue
 | [0020-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0636-exclusive-time-of-functions](https://github.com/thntue/LeetCodePractice/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thntue/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
