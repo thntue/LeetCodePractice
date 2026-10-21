@@ -31,6 +31,7 @@ Hi, Im Nguyen Thien Tue
 | [0636-exclusive-time-of-functions](https://github.com/thntue/LeetCodePractice/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/thntue/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/thntue/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -295,6 +296,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/thntue/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/thntue/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/thntue/LeetCodePractice/tree/master/1732-find-the-highest-altitude) |
