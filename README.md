@@ -43,6 +43,7 @@ Hi, Im Nguyen Thien Tue
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thntue/LeetCodePractice/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/thntue/LeetCodePractice/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/thntue/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -296,6 +297,7 @@ Hi, Im Nguyen Thien Tue
 | [0238-product-of-array-except-self](https://github.com/thntue/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1732-find-the-highest-altitude](https://github.com/thntue/LeetCodePractice/tree/master/1732-find-the-highest-altitude) |
 ## Backtracking
 |  |
 | ------- |
