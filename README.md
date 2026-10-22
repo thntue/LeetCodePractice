@@ -58,6 +58,7 @@ Hi, Im Nguyen Thien Tue
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thntue/LeetCodePractice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3886-sum-of-sortable-integers](https://github.com/thntue/LeetCodePractice/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/thntue/LeetCodePractice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
