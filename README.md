@@ -497,4 +497,16 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thntue/LeetCodePractice/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/thntue/LeetCodePractice/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/thntue/LeetCodePractice/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/thntue/LeetCodePractice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
