@@ -262,6 +262,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/thntue/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/thntue/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/thntue/LeetCodePractice/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thntue/LeetCodePractice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -269,6 +270,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thntue/LeetCodePractice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thntue/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/thntue/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/thntue/LeetCodePractice/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
