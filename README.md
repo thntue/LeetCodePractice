@@ -97,6 +97,7 @@ Hi, Im Nguyen Thien Tue
 | [1207-unique-number-of-occurrences](https://github.com/thntue/LeetCodePractice/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1657-determine-if-two-strings-are-close](https://github.com/thntue/LeetCodePractice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thntue/LeetCodePractice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -119,6 +120,7 @@ Hi, Im Nguyen Thien Tue
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1657-determine-if-two-strings-are-close](https://github.com/thntue/LeetCodePractice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thntue/LeetCodePractice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thntue/LeetCodePractice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -128,6 +130,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [1657-determine-if-two-strings-are-close](https://github.com/thntue/LeetCodePractice/tree/master/1657-determine-if-two-strings-are-close) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -232,6 +235,7 @@ Hi, Im Nguyen Thien Tue
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/thntue/LeetCodePractice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1657-determine-if-two-strings-are-close](https://github.com/thntue/LeetCodePractice/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/thntue/LeetCodePractice/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/thntue/LeetCodePractice/tree/master/2409-count-days-spent-together) |
