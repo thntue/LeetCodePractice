@@ -34,6 +34,7 @@ Hi, Im Nguyen Thien Tue
 | [0724-find-pivot-index](https://github.com/thntue/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/thntue/LeetCodePractice/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/thntue/LeetCodePractice/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thntue/LeetCodePractice/tree/master/1441-build-an-array-with-stack-operations) |
@@ -93,6 +94,7 @@ Hi, Im Nguyen Thien Tue
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thntue/LeetCodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
+| [1207-unique-number-of-occurrences](https://github.com/thntue/LeetCodePractice/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
