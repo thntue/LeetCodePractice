@@ -32,6 +32,7 @@ Hi, Im Nguyen Thien Tue
 | [0643-maximum-average-subarray-i](https://github.com/thntue/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/thntue/LeetCodePractice/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/thntue/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/thntue/LeetCodePractice/tree/master/1207-unique-number-of-occurrences) |
@@ -340,6 +341,7 @@ Hi, Im Nguyen Thien Tue
 | [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/thntue/LeetCodePractice/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
+| [0735-asteroid-collision](https://github.com/thntue/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thntue/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -473,6 +475,7 @@ Hi, Im Nguyen Thien Tue
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/thntue/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thntue/LeetCodePractice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/thntue/LeetCodePractice/tree/master/1929-concatenation-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/thntue/LeetCodePractice/tree/master/2352-equal-row-and-column-pairs) |
