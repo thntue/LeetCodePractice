@@ -52,6 +52,7 @@ Hi, Im Nguyen Thien Tue
 | [2215-find-the-difference-of-two-arrays](https://github.com/thntue/LeetCodePractice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thntue/LeetCodePractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/thntue/LeetCodePractice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2352-equal-row-and-column-pairs](https://github.com/thntue/LeetCodePractice/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thntue/LeetCodePractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/thntue/LeetCodePractice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/thntue/LeetCodePractice/tree/master/3524-find-x-value-of-array-i) |
@@ -102,6 +103,7 @@ Hi, Im Nguyen Thien Tue
 | [1679-max-number-of-k-sum-pairs](https://github.com/thntue/LeetCodePractice/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/thntue/LeetCodePractice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/thntue/LeetCodePractice/tree/master/2352-equal-row-and-column-pairs) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/thntue/LeetCodePractice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/thntue/LeetCodePractice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/thntue/LeetCodePractice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -154,6 +156,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thntue/LeetCodePractice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2352-equal-row-and-column-pairs](https://github.com/thntue/LeetCodePractice/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/thntue/LeetCodePractice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -470,6 +473,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/thntue/LeetCodePractice/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/thntue/LeetCodePractice/tree/master/1929-concatenation-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/thntue/LeetCodePractice/tree/master/2352-equal-row-and-column-pairs) |
 ## Counting Sort
 |  |
 | ------- |
