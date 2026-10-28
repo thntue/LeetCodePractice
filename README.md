@@ -229,6 +229,7 @@ Hi, Im Nguyen Thien Tue
 | [0151-reverse-words-in-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/thntue/LeetCodePractice/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/thntue/LeetCodePractice/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0856-score-of-parentheses) |
@@ -263,6 +264,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0010-regular-expression-matching](https://github.com/thntue/LeetCodePractice/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/thntue/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/thntue/LeetCodePractice/tree/master/0394-decode-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -339,6 +341,7 @@ Hi, Im Nguyen Thien Tue
 | [0032-longest-valid-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thntue/LeetCodePractice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/thntue/LeetCodePractice/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/thntue/LeetCodePractice/tree/master/0636-exclusive-time-of-functions) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/thntue/LeetCodePractice/tree/master/0735-asteroid-collision) |
