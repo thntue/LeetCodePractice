@@ -26,6 +26,7 @@ Hi, Im Nguyen Thien Tue
 | [0238-product-of-array-except-self](https://github.com/thntue/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/thntue/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thntue/LeetCodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/thntue/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -167,6 +168,7 @@ Hi, Im Nguyen Thien Tue
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/thntue/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thntue/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/thntue/LeetCodePractice/tree/master/0841-keys-and-rooms) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
@@ -259,6 +261,7 @@ Hi, Im Nguyen Thien Tue
 | [0345-reverse-vowels-of-a-string](https://github.com/thntue/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/thntue/LeetCodePractice/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/thntue/LeetCodePractice/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/thntue/LeetCodePractice/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
@@ -354,6 +357,7 @@ Hi, Im Nguyen Thien Tue
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/thntue/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/thntue/LeetCodePractice/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/thntue/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/thntue/LeetCodePractice/tree/master/0841-keys-and-rooms) |
@@ -368,6 +372,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thntue/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/thntue/LeetCodePractice/tree/master/0841-keys-and-rooms) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/thntue/LeetCodePractice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -375,6 +380,7 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/thntue/LeetCodePractice/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/thntue/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -612,4 +618,16 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/thntue/LeetCodePractice/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
