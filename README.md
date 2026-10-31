@@ -37,6 +37,7 @@ Hi, Im Nguyen Thien Tue
 | [0724-find-pivot-index](https://github.com/thntue/LeetCodePractice/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/thntue/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/thntue/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/thntue/LeetCodePractice/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thntue/LeetCodePractice/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -300,6 +301,7 @@ Hi, Im Nguyen Thien Tue
 | [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/thntue/LeetCodePractice/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/thntue/LeetCodePractice/tree/master/0374-guess-number-higher-or-lower) |
+| [0875-koko-eating-bananas](https://github.com/thntue/LeetCodePractice/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/thntue/LeetCodePractice/tree/master/1004-max-consecutive-ones-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thntue/LeetCodePractice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
