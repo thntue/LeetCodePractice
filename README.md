@@ -172,6 +172,7 @@ Hi, Im Nguyen Thien Tue
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/thntue/LeetCodePractice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -360,6 +361,7 @@ Hi, Im Nguyen Thien Tue
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/thntue/LeetCodePractice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/thntue/LeetCodePractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -368,6 +370,7 @@ Hi, Im Nguyen Thien Tue
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/thntue/LeetCodePractice/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/thntue/LeetCodePractice/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/thntue/LeetCodePractice/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 ## Union-Find
 |  |
 | ------- |
