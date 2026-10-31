@@ -365,6 +365,7 @@ Hi, Im Nguyen Thien Tue
 | [0735-asteroid-collision](https://github.com/thntue/LeetCodePractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/thntue/LeetCodePractice/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/thntue/LeetCodePractice/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thntue/LeetCodePractice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/thntue/LeetCodePractice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -513,6 +514,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/thntue/LeetCodePractice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/thntue/LeetCodePractice/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/thntue/LeetCodePractice/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/thntue/LeetCodePractice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Range Minimum/Maximum Query
 |  |
@@ -521,6 +523,7 @@ Hi, Im Nguyen Thien Tue
 ## Design
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/thntue/LeetCodePractice/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/thntue/LeetCodePractice/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -530,5 +533,6 @@ Hi, Im Nguyen Thien Tue
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/thntue/LeetCodePractice/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/thntue/LeetCodePractice/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
