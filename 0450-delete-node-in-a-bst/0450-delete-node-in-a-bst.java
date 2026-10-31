@@ -1,4 +1,4 @@
-// Bai 450: Delete Node in a BST
+
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null) return null;
@@ -14,7 +14,7 @@ class Solution {
            if(root.left == null) return root.right;
            if(root.right == null) return root.left;
            
-           TreeNode tmp = root.right; // luu tam bien nay
+           TreeNode tmp = root.right;
            while(tmp.left != null) {
                 tmp = tmp.left;
            }
