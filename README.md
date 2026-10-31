@@ -167,6 +167,7 @@ Hi, Im Nguyen Thien Tue
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thntue/LeetCodePractice/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
@@ -346,6 +347,7 @@ Hi, Im Nguyen Thien Tue
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/thntue/LeetCodePractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Graph Theory
@@ -429,6 +431,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/thntue/LeetCodePractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
@@ -448,6 +451,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
