@@ -25,6 +25,7 @@ Hi, Im Nguyen Thien Tue
 | [0238-product-of-array-except-self](https://github.com/thntue/LeetCodePractice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/thntue/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thntue/LeetCodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/thntue/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/thntue/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
@@ -126,6 +127,7 @@ Hi, Im Nguyen Thien Tue
 | ------- |
 | [0015-3sum](https://github.com/thntue/LeetCodePractice/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/thntue/LeetCodePractice/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/thntue/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/thntue/LeetCodePractice/tree/master/0645-set-mismatch) |
 | [1096-brace-expansion-ii](https://github.com/thntue/LeetCodePractice/tree/master/1096-brace-expansion-ii) |
@@ -199,6 +201,7 @@ Hi, Im Nguyen Thien Tue
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thntue/LeetCodePractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thntue/LeetCodePractice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -215,6 +218,7 @@ Hi, Im Nguyen Thien Tue
 | [0055-jump-game](https://github.com/thntue/LeetCodePractice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/thntue/LeetCodePractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/thntue/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/thntue/LeetCodePractice/tree/master/0649-dota2-senate) |
