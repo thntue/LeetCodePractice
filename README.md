@@ -441,6 +441,7 @@ Hi, Im Nguyen Thien Tue
 | [0199-binary-tree-right-side-view](https://github.com/thntue/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/thntue/LeetCodePractice/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/thntue/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/thntue/LeetCodePractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -451,6 +452,7 @@ Hi, Im Nguyen Thien Tue
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/thntue/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/thntue/LeetCodePractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
@@ -468,6 +470,7 @@ Hi, Im Nguyen Thien Tue
 | [0199-binary-tree-right-side-view](https://github.com/thntue/LeetCodePractice/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/thntue/LeetCodePractice/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/thntue/LeetCodePractice/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/thntue/LeetCodePractice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
