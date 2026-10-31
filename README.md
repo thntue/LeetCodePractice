@@ -210,6 +210,7 @@ Hi, Im Nguyen Thien Tue
 | [0392-is-subsequence](https://github.com/thntue/LeetCodePractice/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/thntue/LeetCodePractice/tree/master/0678-valid-parenthesis-string) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thntue/LeetCodePractice/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/thntue/LeetCodePractice/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -348,6 +349,7 @@ Hi, Im Nguyen Thien Tue
 | [0133-clone-graph](https://github.com/thntue/LeetCodePractice/tree/master/0133-clone-graph) |
 | [0437-path-sum-iii](https://github.com/thntue/LeetCodePractice/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/thntue/LeetCodePractice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/thntue/LeetCodePractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -433,6 +435,7 @@ Hi, Im Nguyen Thien Tue
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/thntue/LeetCodePractice/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/thntue/LeetCodePractice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -454,6 +457,7 @@ Hi, Im Nguyen Thien Tue
 | [0104-maximum-depth-of-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/thntue/LeetCodePractice/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/thntue/LeetCodePractice/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
@@ -569,4 +573,8 @@ Hi, Im Nguyen Thien Tue
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/thntue/LeetCodePractice/tree/master/0374-guess-number-higher-or-lower) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/thntue/LeetCodePractice/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
