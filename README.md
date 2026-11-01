@@ -30,6 +30,7 @@ Hi, Im Nguyen Thien Tue
 | [0435-non-overlapping-intervals](https://github.com/thntue/LeetCodePractice/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thntue/LeetCodePractice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/thntue/LeetCodePractice/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/thntue/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/thntue/LeetCodePractice/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/thntue/LeetCodePractice/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/thntue/LeetCodePractice/tree/master/0636-exclusive-time-of-functions) |
@@ -201,6 +202,7 @@ Hi, Im Nguyen Thien Tue
 | [0069-sqrtx](https://github.com/thntue/LeetCodePractice/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/thntue/LeetCodePractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/thntue/LeetCodePractice/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/thntue/LeetCodePractice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0836-rectangle-overlap](https://github.com/thntue/LeetCodePractice/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/thntue/LeetCodePractice/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/thntue/LeetCodePractice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
